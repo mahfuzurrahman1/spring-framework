@@ -1,6 +1,10 @@
-Hello world!!!!!!!!!
+Hello world!!!zcom
 take input from user
 add the values
 
 
 submit data to the database
+
+
+
+some txt we have add before come in the house.g
